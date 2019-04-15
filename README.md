@@ -1,2 +1,2 @@
 # Gemla-Macken
-New webpage for Matöppet store i Gemla
+New webpage for Matöppet a store in Gemla,Sweden.
