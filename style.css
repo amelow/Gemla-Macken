@@ -22,11 +22,12 @@ header{
     font-family: 'Pontano Sans', sans-serif;
     background-repeat: no-repeat;
 }
-nav{
+#navbar{
     width: 80%;
     height:4vh;
+    overflow: hidden;
     margin: auto;
-    margin-bottom: 2vh;
+   
 }
 #navlist li{
     float:left;
