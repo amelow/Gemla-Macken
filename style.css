@@ -22,3 +22,20 @@ header{
     font-family: 'Pontano Sans', sans-serif;
     background-repeat: no-repeat;
 }
+nav{
+    width: 80%;
+    height:4vh;
+    margin: auto;
+    margin-bottom: 2vh;
+}
+#navlist li{
+    float:left;
+    text-align: center;
+    width: 25%;
+    margin-top: 1vh;
+    text-decoration: none;
+}
+#navlist li a{
+    text-decoration: none;
+    text-align: center;
+}
